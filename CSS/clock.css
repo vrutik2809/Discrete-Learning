@@ -2,7 +2,7 @@
     width: 40vw;
     height: 40vw;
     margin: auto;
-    background : url(../Data/clock.png);
+    background : url(../data/clock.png);
     background-size: 100%;
 }
 #hour{
